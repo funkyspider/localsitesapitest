@@ -5,7 +5,7 @@
   "gennarolive":
     { "name": "Live", "description": "Live session", "type": "LIVE", "version" : "1.3" }
   ,
-  "gennarotest": {
+  "gennarotest": 
     { "name": "Live", "description": "Live session", "type": "LIVE", "version" : "1.3" }
-  }
+  
 }
