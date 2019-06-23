@@ -1,11 +1,12 @@
 {
   "sites": [
-    {"siteURL":"https://my-json-server.typicode.com/funkyspider/localsitesapitest/gennarolive"}  
+    {"siteURL":"https://my-json-server.typicode.com/funkyspider/localsitesapitest/gennarolive"},
+    {"siteURL":"https://my-json-server.typicode.com/funkyspider/localsitesapitest/gennarotrain"}  
   ],
   "gennarolive":
     { "name": "Live", "description": "Live session", "type": "LIVE", "version" : "1.3" }
   ,
-  "gennarotest": 
-    { "name": "Live", "description": "Live session", "type": "LIVE", "version" : "1.3" }
+  "gennarotrain": 
+    { "name": "Training", "description": "Training session", "type": "TRAIN", "version" : "1.5" }
   
 }
