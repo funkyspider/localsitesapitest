@@ -1,6 +1,6 @@
 {
   "sites": [
-    {"siteURL":"https://my-json-server.typicode.com/funkyspider/gennaroLive"}  
+    {"siteURL":"https://my-json-server.typicode.com/funkyspider/localsitesapitest/gennarolive"}  
   ],
   "gennarolive":
     { "name": "Live", "description": "Live session", "type": "LIVE", "version" : "1.3" }
